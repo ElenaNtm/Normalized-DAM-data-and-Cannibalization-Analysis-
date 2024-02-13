@@ -8,4 +8,4 @@ As the data from previous years are in zip form in EnExGroup platform we are wor
 Information and the data can be found here: https://www.enexgroup.gr/el/markets-publications-el-day-ahead-market
 https://www.enexgroup.gr/el/dam-idm-archive
 
-We are using the Market Coupling Results
+We are using the Market Coupling Results for the DAM prices only
